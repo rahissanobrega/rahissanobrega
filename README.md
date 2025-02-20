@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando Java e Python
-- 📫 Contate-me no email: rahissajesus@gmail.com
+- 📫 Contate-me no email: nobregarahissa@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rahissa-nóbrega) 
