@@ -1,7 +1,7 @@
 ### Olá! Me chamo Rahissa Nóbrega
 
 
-- 🌱 Estudando Java e Python
+- 🌱 Estudando Java 
 - 📫 Contate-me no email: nobregarahissa@gmail.com
 
 ## 🌐 Socials:
